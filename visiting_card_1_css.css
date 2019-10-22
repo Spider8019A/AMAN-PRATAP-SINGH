@@ -1,0 +1,104 @@
+*{margin:0px;
+  padding:0px;
+  box-sizing:border-box;
+}
+body{
+  background-image:url("images_vc/vc1.jpg");
+  background-size:cover;
+  background-attachment:fixed;
+}
+.vc1{
+  text-shadow: 2px 2px 5px black;
+  font-size:50px;
+  color:white;
+  font-family:magneto;
+
+}
+tr{
+  color:white;
+  font-family:arial;
+  text-shadow:2px 3px 8px black;
+}
+td:hover{
+  background-color:red;
+  border-radius: 10px;
+}
+.vc2{
+  backgound-image:url("images_vc/vc1.jpg");
+  border:3px solid neon;
+  color:white;
+  font-family:Philosopher;
+
+}
+.vc3{
+ margin-left: 150px;
+ border-radius:20px;
+ border: 1px solid white;
+}
+.vc3:hover{opacity:0.9;
+}
+.vc4{
+ font-family:arial;
+ margin-left:800px;
+ color:white;
+ position:relative;
+ top:-140px;
+ text-shadow:2px 2px 5px black;
+}
+footer{
+ background-image:url("images_vc/vc2.jpg");}
+ header{
+  background-image:url("images_vc/vc2.jpg");}
+
+.vc4:hover{
+ font-family:arial;
+ margin-left:800px;
+ color:white;
+ background-color:red;
+ border-radius:10px;
+ position:relative;
+ top:-140px;
+ text-shadow:2px 2px 5px black;
+}
+.vc5{
+  font-family:arial;
+  color:white;
+}
+a11{
+   font-size:50px;
+
+
+   word-spacing:3px;
+   font-family:"callibri","bell mt";
+   color:006400;
+    }
+a12{
+   font-size:20px;
+   word-spacing:3px;
+   font-family:"callibri","bell mt";
+   color:white;
+    }
+a13{
+   font-size:15px;
+
+   font-family:"segoe mdl2 assets";
+   color:white;
+    }
+a14{
+    margin-left:1038px;
+    font-size:15px;
+
+    font-family:"segoe mdl2 assets";
+    color:white;
+    }
+a15{margin-left:415px;
+   }
+a16{margin-left:975px;
+    font-family:"segoe md12 assets";
+    font-size:14px;
+    color:blue;
+   }
+.image:hover{
+      background-color:pink;
+      border-radius:20px;
+   }
